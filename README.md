@@ -22,10 +22,10 @@ PyTorch
 
 ### Files Included
 
-Image Classifier Project.html
-cat_to_name.json
-predict.py
-train.py
-dl_classifier.py
-image_preprocessing.py
-flowers
+- Image Classifier Project.html
+- cat_to_name.json
+- predict.py
+- train.py
+- dl_classifier.py
+- image_preprocessing.py
+- flowers
